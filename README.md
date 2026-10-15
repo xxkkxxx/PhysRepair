@@ -1,9 +1,7 @@
 <h1 align="center">PhysRepair: Agentic Physics-Grounded Video Generation<br>via Memory-Augmented In-Context Reasoning</h1>
 
 <p align="center">
-  <a href="https://xxkkxxx.github.io/PhysRepair/assets/PhysRepair-paper.pdf"><img src="https://img.shields.io/badge/Paper-PDF-b31b1b?logo=adobeacrobatreader&amp;logoColor=white" alt="Paper PDF"></a>
-  <a href="https://xxkkxxx.github.io/PhysRepair/"><img src="https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
-  <img src="https://img.shields.io/badge/Code-Coming_Soon-orange" alt="Code coming soon">
+  <a href="https://xxkkxxx.github.io/PhysRepair-Website/"><img src="https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
 </p>
 
 **Xikang Guan<sup>1,†</sup>, Shaocong Yang<sup>1,†</sup>, Yanqi Bao<sup>2,‡</sup>, Can Wang<sup>3</sup>, Zheng Gu<sup>4</sup>, Zhengqing Chen<sup>2</sup>, Kai Chen<sup>5</sup>, Jing Huo<sup>1,*</sup>, Yang Gao<sup>6</sup>**
@@ -61,10 +59,6 @@ Results reported in the manuscript on Physics-IQ Verified. Higher is better for 
 
 SP: Spatial IoU; ST: Spatiotemporal IoU; WS: Weighted Spatial IoU. “—” denotes an unreported value.
 
-## Code release
-
-**Code coming soon.** This repository currently contains paper information and static research figures. The implementation has not been released yet.
-
 ## Citation
 
 ```bibtex
@@ -73,6 +67,6 @@ SP: Spatial IoU; ST: Spatiotemporal IoU; WS: Weighted Spatial IoU. “—” den
   author = {Guan, Xikang and Yang, Shaocong and Bao, Yanqi and Wang, Can and Gu, Zheng and Chen, Zhengqing and Chen, Kai and Huo, Jing and Gao, Yang},
   year = {2026},
   note = {Manuscript},
-  url = {https://xxkkxxx.github.io/PhysRepair/assets/PhysRepair-paper.pdf}
+  url = {https://xxkkxxx.github.io/PhysRepair-Website/}
 }
 ```
