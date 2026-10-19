@@ -1,6 +1,7 @@
 <h1 align="center">PhysRepair: Agentic Physics-Grounded Video Generation<br>via Memory-Augmented In-Context Reasoning</h1>
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2610.23677"><img src="https://img.shields.io/badge/arXiv-2610.23677-b31b1b?logo=arxiv&amp;logoColor=white" alt="arXiv: 2610.23677"></a>
   <a href="https://xxkkxxx.github.io/PhysRepair-Website/"><img src="https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
 </p>
 
@@ -51,10 +52,13 @@ SP: Spatial IoU; ST: Spatiotemporal IoU; WS: Weighted Spatial IoU. “—” den
 ## Citation
 
 ```bibtex
-@misc{guan2026physrepair,
-  title = {Agentic Physics-Grounded Video Generation via Memory-Augmented In-Context Reasoning},
-  year = {2026},
-  note = {Manuscript},
-  url = {https://xxkkxxx.github.io/PhysRepair-Website/}
+@misc{guan2026agenticphysicsgroundedvideogeneration,
+      title={Agentic Physics-Grounded Video Generation via Memory-Augmented In-Context Reasoning}, 
+      author={Xikang Guan and Shaocong Yang and Yanqi Bao and Can Wang and Zheng Gu and Zhengqing Chen and Kai Chen and Jing Huo and Yang Gao},
+      year={2026},
+      eprint={2610.23677},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2610.23677}, 
 }
 ```
